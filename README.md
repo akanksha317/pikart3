@@ -1,4 +1,4 @@
-# maclay_multi_store
+# Pi-Kart
 
 A new Flutter project.
 
